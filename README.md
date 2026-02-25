@@ -1,2 +1,2 @@
-# -C-Practice-program-
+# -C++ Practice-program-
 Basic C++ Program
