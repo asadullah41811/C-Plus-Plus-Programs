@@ -51,7 +51,7 @@ int main()
     }
 
 
-    cout << "\nArray in Ascending Order:\n";
+    cout << "\nArray in descending Order:\n";
     for(int i = 0; i < n; i++)
     {
         cout << arr[i] << " ";
@@ -59,4 +59,5 @@ int main()
 
     return 0;
 }
+
 
